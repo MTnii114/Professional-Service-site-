@@ -1,0 +1,6 @@
+{
+  "name": "Nexora Labs — Independent AI & Digital Innovation Studio",
+  "description": "Independent AI & Digital Innovation Studio delivering intelligent websites, AI creative systems, workflow automation, custom model engineering, and edge deployment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
